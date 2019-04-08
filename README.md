@@ -1,7 +1,7 @@
 # Team-12
 
 # Team Members
-![alt-text](https://user-images.githubusercontent.com/32311654/55747167-829f1e80-59f0-11e9-8448-3f470dc662f9.jpg | width=712 | height=1072)
+![alt-text](https://user-images.githubusercontent.com/32311654/55748107-a8c5be00-59f2-11e9-969b-4c293cf1fe19.png)
 Armando Banuelos (abanuelo@stanford.edu)
 
 Abanezer Sisay
