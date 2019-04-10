@@ -4,9 +4,9 @@
 
 Armando Banuelos (abanuelo@stanford.edu)
 
-Abanezer Sisay
+Abanezer Sisay (atsisay@stanford.edu)
 
-Jaisel Sandhu
+Jaisel Sandhu 
 
 # Synopsis of Project
 
